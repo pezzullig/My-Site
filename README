@@ -1,22 +1,2 @@
-* {
-  text-align: center;
-  font-family: verdana;
-}
-
-
-head {
-    font-size: 20px;
-    font-variant-ligatures: normal;
-}
-
-body {
-    background-color: darkblue;
-}
-
-h1 {
-    color: white;
-}
-
-p {
-  color: white;
-}
+This is my first website. 
+visit it at 
